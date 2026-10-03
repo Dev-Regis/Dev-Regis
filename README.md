@@ -39,7 +39,7 @@ Trabalho com diferentes tecnologias, buscando sempre criar soluções funcionais
 
 ---
 
-<div align="center">
+<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-7bBBy8x91c0d87z8-94.gif' border='0' alt='contador'>
 
 ### Desenvolvimento • Tecnologia • Criação
 
